@@ -1,0 +1,8 @@
+{
+  "name": "Feed The Cat",
+  "short_name": "Feed The Cat",
+  "theme_color": "#B7E229",
+  "start_url": "https://alexidians.github.io/Attack-The-Enemy/app/files/frame.html",
+  "id": "FeedTheCat",
+  "display": "standalone",
+}
